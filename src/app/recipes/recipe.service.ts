@@ -13,7 +13,7 @@ export class RecipeService {
     private recipes: Recipe[] = [
         new Recipe('Test Recipe', 
                    'This is test description', 
-                   'https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/spaghetti-puttanesca_1.jpg',
+                   'https://pinchofyum.com/wp-content/uploads/Moroccan-Chickpea-Bowls-Recipe.jpg',
                    [ new Ingredient('ingredient1', 1),
                      new Ingredient('ingredient2', 5)]
                   ),
